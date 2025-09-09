@@ -10,6 +10,6 @@ My name is Rifa Ibrahim and im currently studying BS Cybersecurity
 tools used:
 - VS code
 - Github
-  **this is a bold statement**
-  *this is an italic statement*
-***this is a bold and italic statement***
+  **this is a bold statement**\
+  *this is an italic statement*\
+***this is a bold and italic statement***\
